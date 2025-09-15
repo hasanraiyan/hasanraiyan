@@ -3,10 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning!&center=true&width=380&height=45">
 </p>
 
-- 🔭 I’m currently working on: **[Career Simplify Website](https://github.com/hasanraiyan/Career-Simplify-for-Website)**
+- 🔭 I’m currently working on: **[PYQ Website](https://pyqdeck.vercel.app)**
 - 🌱 I’m learning: **TypeScript, Next.js, AI tools**
 - 👯 I’m looking to collaborate on: **open source projects**
-- 📫 How to reach me: **yourmail@example.com**
+- 📫 How to reach me: **raiyanhasan2006@gmail.com**
 - 💻 All my projects: [GitHub Repos](https://github.com/hasanraiyan?tab=repositories)
 
 ### 🏆 Achievements & GitHub Stats
