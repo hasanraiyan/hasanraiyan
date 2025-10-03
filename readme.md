@@ -12,24 +12,25 @@
 
 ---
 
-### 🏆 GitHub Stats
+### 🏆 GitHub Stats & Achievements  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasanraiyan&show_icons=true&hide_title=true&theme=tokyonight&count_private=true" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanraiyan&theme=tokyonight" height="150">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasanraiyan&theme=radical" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hasanraiyan&theme=radical" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasanraiyan&theme=radical" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasanraiyan&theme=tokyonight&no-frame=true&column=7&margin-w=5" height="150">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasanraiyan&theme=radical" height="160" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hasanraiyan&theme=tokyonight&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" height="200">
-</p>
+---
+
+### 📈 Commit Graph (Eye-Catching)  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanraiyan&layout=compact&theme=tokyonight" height="150">
-</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasanraiyan&bg_color=0f2027&color=00ffcc&line=ff007f&point=ffffff&area=true&hide_border=true" height="300"/>
+</p>  
 
 ---
 
