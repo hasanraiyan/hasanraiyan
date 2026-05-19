@@ -7,7 +7,7 @@
 - 🌱 I’m learning: **TypeScript, Next.js, AI tools**
 - 👯 I’m looking to collaborate on: **open source projects**
 - 💻 All my projects: [GitHub Repos](https://github.com/hasanraiyan?tab=repositories)
-- 🌐 Visit my portfolio: **[hasanraiyan.vercel.app](https://hasanraiyan.me)**
+- 🌐 Visit my portfolio: **[hasanraiyan.me](https://hasanraiyan.me)**
 - 📫 How to reach me: **raiyanhasan2006@gmail.com**
 
 ---
