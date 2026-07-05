@@ -33,8 +33,7 @@
 
 ### 🚀 Pinned Projects
 
-[![NoteJS](https://github-readme-stats.vercel.app/api/pin/?username=hasanraiyan&repo=NoteJS&theme=tokyonight)](https://github.com/hasanraiyan/NoteJS)
-[![PYQDeck](https://github-readme-stats.vercel.app/api/pin/?username=hasanraiyan&repo=pyqdeck&theme=tokyonight)](https://github.com/hasanraiyan/pyqdeck)
+[![NoteJS](https://github-readme-stats.vercel.app/api/pin/?username=hasanraiyan&repo=NoteJS&theme=tokyonight)](https://github.com/hasanraiyan/resume)
 
 ---
 
