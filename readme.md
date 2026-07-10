@@ -1,116 +1,110 @@
-<h1 align="center">
-Hi 👋 I'm Raiyan Hasan
-</h1>
-
-<h3 align="center">
-Building AI Products • Full Stack Developer • Open Source Builder
-</h3>
+<h1 align="center">Hi 👋, I'm Raiyan Hasan</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00F5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+AI+Products;Creator+of+Axion+AI;Building+Coursify+%26+PYQDeck;Open+Source+Enthusiast;Always+Learning+Something+New" />
+  <b>Full Stack Developer • AI Product Builder • Open Source Enthusiast</b>
 </p>
 
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1200&color=00F5FF&center=true&vCenter=true&width=700&lines=Building+AI+Products;Full+Stack+Developer;Creator+of+Axion+AI;Building+Coursify+%26+PYQDeck;Always+Learning+Something+New" />
+</p>
+
+<p align="center">
+
 <a href="https://hasanraiyan.me">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=googlechrome"/>
 </a>
 
 <a href="mailto:raiyanhasan2006@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/hasanraiyan">
+<img src="https://img.shields.io/github/followers/hasanraiyan?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hasanraiyan">
 <img src="https://img.shields.io/badge/LinkedIn-Raiyan%20Hasan-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/hasanraiyan">
-<img src="https://img.shields.io/github/followers/hasanraiyan?style=for-the-badge"/>
-</a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 👋 About Me
 
-I'm a Full Stack Developer from India passionate about building products that solve real-world problems.
+I'm a software developer from India who loves building products with AI.
 
-Instead of cloning existing ideas, I enjoy creating developer tools, AI-powered applications and educational products that people actually use.
+Instead of building small demo projects, I enjoy creating tools that solve real problems for students, developers, and creators.
 
-Currently I'm focused on building scalable AI systems, learning modern backend architecture, and contributing to open source.
+Currently focused on:
 
-- 🚀 Building **Axion AI**
-- 📚 Creator of **Coursify**
-- 🎓 Founder of **PYQDeck**
-- 🤖 Building AI-first applications
-- 💡 Love turning ideas into products
-- 🌱 Currently exploring Agentic AI, MCP, RAG & System Design
+- 🚀 AI Applications
+- ⚡ Full Stack Development
+- 🤖 Agentic AI & MCP
+- 🧠 RAG Systems
+- 📚 Developer Tools
+- 🌍 Open Source
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 What I'm Building
 
 ## 🤖 Axion AI
 
-AI assistant with modern chat experience, customizable models and productivity features.
+A modern AI assistant with multiple models, beautiful chat experience, productivity tools and customizable AI providers.
 
 ---
 
 ## 📚 Coursify
 
-An AI-powered learning platform that generates complete learning paths, notes, quizzes and educational content.
+An AI-powered learning platform that creates complete courses, notes, quizzes and roadmaps from a single prompt.
 
 ---
 
 ## 🎓 PYQDeck
 
-Helping engineering students prepare smarter using previous year question papers and study resources.
+Helping thousands of engineering students prepare smarter with previous year papers and study resources.
+
+🌐 https://pyqdeck.vercel.app
 
 ---
 
 ## 💙 Dostify
 
-An AI companion designed to support students with productivity, motivation and daily academic life.
+An AI study companion built to help students stay productive and organized.
 
 ---
 
-## 🌐 Portfolio
-
-Explore everything I've built.
-
-🔗 https://hasanraiyan.me
-
----
-
-# ⚡ Tech Stack
+# ⚙️ Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express"/>
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase"/>
 </p>
 
-### DevOps & Tools
+### Dev Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,vercel,postman" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,vscode,postman"/>
 </p>
 
 ### AI
@@ -128,25 +122,9 @@ Explore everything I've built.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hasanraiyan&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hasanraiyan&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanraiyan&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 Profile Summary
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanraiyan&theme=tokyonight"/>
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasanraiyan&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hasanraiyan&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanraiyan&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
@@ -155,7 +133,9 @@ Explore everything I've built.
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasanraiyan&theme=tokyo-night&hide_border=true&area=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasanraiyan&theme=github-compact&hide_border=true&area=true"/>
+
 </p>
 
 ---
@@ -163,38 +143,33 @@ Explore everything I've built.
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=hasanraiyan&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=hasanraiyan&theme=transparent&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasanraiyan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
-# 📌 Favorite Repositories
+# 📊 Profile Summary
 
 <p align="center">
 
-<a href="https://github.com/hasanraiyan">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hasanraiyan&repo=resume&theme=tokyonight"/>
-
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanraiyan&theme=github_dark"/>
 
 </p>
 
 ---
 
-# 🤝 Connect With Me
+# 🌐 Let's Connect
 
 <p align="center">
 
 <a href="https://hasanraiyan.me">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:raiyanhasan2006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/hasanraiyan">
@@ -202,11 +177,7 @@ Explore everything I've built.
 </a>
 
 <a href="https://www.linkedin.com/in/hasanraiyan">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:raiyanhasan2006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
@@ -215,10 +186,8 @@ Explore everything I've built.
 
 <p align="center">
 
-> *"I don't just write code. I build products that solve problems."*
+### 💡 Building products that people love to use.
 
-</p>
+⭐ If you like my work, consider following me or starring a repository.
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=hasanraiyan&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
