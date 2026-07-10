@@ -1,29 +1,31 @@
-<h1 align="center">Hi 👋, I'm Raiyan Hasan</h1>
+<h1 align="center">
+  Hi 👋, I'm Raiyan Hasan
+</h1>
+
+<h3 align="center">
+Building AI Products • Full Stack Developer • Open Source Builder
+</h3>
 
 <p align="center">
-  <b>Full Stack Developer • AI Product Builder • Open Source Enthusiast</b>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1200&color=00F5FF&center=true&vCenter=true&width=700&lines=Building+AI+Products;Full+Stack+Developer;Creator+of+Axion+AI;Building+Coursify+%26+PYQDeck;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Building+AI+Products;Founder+%26+Builder;NestJS+%7C+Next.js+%7C+Flutter;AI+Agents+%7C+RAG+%7C+MCP;Always+Building+Something+New" />
 </p>
 
 <p align="center">
 
 <a href="https://hasanraiyan.me">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=googlechrome"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-success?style=for-the-badge"/>
 </a>
 
 <a href="mailto:raiyanhasan2006@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/📧_Email-Contact-red?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/hasanraiyan">
-<img src="https://img.shields.io/github/followers/hasanraiyan?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/hasanraiyan?label=Followers&style=for-the-badge"/>
 </a>
 
-<a href="https://www.linkedin.com/in/hasanraiyan">
-<img src="https://img.shields.io/badge/LinkedIn-Raiyan%20Hasan-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://github.com/hasanraiyan">
+<img src="https://img.shields.io/github/stars/hasanraiyan?label=Stars&style=for-the-badge"/>
 </a>
 
 </p>
@@ -32,144 +34,195 @@
 
 # 👋 About Me
 
-I'm a software developer from India who loves building products with AI.
+```bash
+$ whoami
 
-Instead of building small demo projects, I enjoy creating tools that solve real problems for students, developers, and creators.
+Name      : Raiyan Hasan
+Role      : Full Stack Developer
+Focus     : AI Products & Developer Tools
+Location  : India 🇮🇳
+```
 
-Currently focused on:
+I'm a software developer passionate about building products powered by AI.
 
-- 🚀 AI Applications
-- ⚡ Full Stack Development
-- 🤖 Agentic AI & MCP
+Instead of building tutorial projects, I enjoy creating real applications that solve problems for students, developers and creators.
+
+Currently building scalable AI applications, experimenting with modern backend architectures and contributing to open-source software.
+
+---
+
+# 🚀 Current Focus
+
+- 🤖 Building **Axion AI**
+- 📚 Building **Coursify**
+- 🎓 Creator of **PYQDeck**
+- 💙 Building **Dostify**
+- ⚡ Learning Agentic AI
 - 🧠 RAG Systems
-- 📚 Developer Tools
+- 🔥 Model Context Protocol (MCP)
+- 🏗 System Design
 - 🌍 Open Source
 
 ---
 
-# 🚀 What I'm Building
+# 💼 Featured Products
 
 ## 🤖 Axion AI
 
-A modern AI assistant with multiple models, beautiful chat experience, productivity tools and customizable AI providers.
+A modern AI platform with beautiful chat experience, multiple AI providers, customizable models and productivity tools.
+🌐 https://axion.hasanraiyan.me
+
 
 ---
 
 ## 📚 Coursify
 
-An AI-powered learning platform that creates complete courses, notes, quizzes and roadmaps from a single prompt.
+
+AI-powered learning platform that creates personalized learning experiences, notes, quizzes and complete roadmaps.
+🌐 https://coursify.hasanraiyan.me
 
 ---
 
 ## 🎓 PYQDeck
 
-Helping thousands of engineering students prepare smarter with previous year papers and study resources.
+Helping engineering students prepare smarter using previous year question papers and study resources.
 
-🌐 https://pyqdeck.vercel.app
+🌐 https://pyqdeck.in
 
 ---
 
 ## 💙 Dostify
 
-An AI study companion built to help students stay productive and organized.
+AI-powered student companion focused on productivity, motivation and learning.
+
 
 ---
 
-# ⚙️ Tech Stack
+# ⚡ Tech Stack
 
-### Languages
+## Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp"/>
 </p>
 
-### Frontend
+## Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css"/>
 </p>
 
-### Backend
+## Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express"/>
 </p>
 
-### Database
+## Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase"/>
 </p>
 
-### Dev Tools
+## DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,postman,vscode"/>
 </p>
 
-### AI
+---
+
+# 🤖 AI Stack
 
 - OpenAI API
 - Gemini API
-- LangGraph
 - MCP
-- RAG
+- LangGraph
+- LangChain
+- Retrieval-Augmented Generation (RAG)
 - Prompt Engineering
+- AI Agents
+- Vector Databases
 
 ---
 
-# 📊 GitHub Analytics
+# 📚 Currently Learning
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hasanraiyan&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanraiyan&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasanraiyan&theme=github-compact&hide_border=true&area=true"/>
-
-</p>
+```text
+✔ Advanced NestJS
+✔ System Design
+✔ Distributed Systems
+✔ AI Agents
+✔ MCP
+✔ RAG
+✔ Flutter
+✔ Product Design
+```
 
 ---
 
-# 🔥 GitHub Streak
+# 📂 Open Source
 
-<p align="center">
+I enjoy building products that developers and students can actually use.
 
-<img src="https://streak-stats.demolab.com?user=hasanraiyan&theme=transparent&hide_border=true"/>
+Current interests include:
 
-</p>
-
----
-
-# 📊 Profile Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasanraiyan&theme=github_dark"/>
-
-</p>
+- Developer Tools
+- AI SDKs
+- Educational Platforms
+- Open Source Libraries
+- Productivity Apps
 
 ---
 
-# 🌐 Let's Connect
+# 🎯 2026 Goals
+
+- 🚀 Launch Axion AI
+- 📚 Grow Coursify
+- 🌍 Contribute to Open Source
+- 🤝 Collaborate with Developers
+- 📖 Learn Advanced System Design
+- ⚡ Build Better Developer Tools
+
+---
+
+# 📈 GitHub Activity
+
+> GitHub metrics are generated using GitHub Actions instead of third-party public APIs for better reliability.
+
+---
+
+# 📝 Development Journal
+
+```text
+[✓] Building AI Products
+[✓] Improving Backend Architecture
+[✓] Learning New Technologies
+[✓] Shipping Features
+[✓] Reading Technical Books
+[✓] Contributing to Open Source
+```
+
+---
+
+# 💡 Philosophy
+
+> Build products.
+>
+> Learn continuously.
+>
+> Share knowledge.
+>
+> Solve real problems.
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
 <a href="https://hasanraiyan.me">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="mailto:raiyanhasan2006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
 </a>
 
 <a href="https://github.com/hasanraiyan">
@@ -180,14 +233,20 @@ An AI study companion built to help students stay productive and organized.
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
+<a href="mailto:raiyanhasan2006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 ---
 
+# ❤️ Thanks for Visiting
+
+If you enjoy my work, consider ⭐ starring a repository or following me.
+
 <p align="center">
 
-### 💡 Building products that people love to use.
-
-⭐ If you like my work, consider following me or starring a repository.
+**Building products that people love to use.**
 
 </p>
